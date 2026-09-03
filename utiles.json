@@ -1,0 +1,119 @@
+[
+{
+  _id: ObjectId('6a924416a1443ab4395f882c'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Lápiz',
+  imagen_url: 'https://drive.google.com/file/d/1HBUfWy3pjck15qqJx2geflGLUTVKesei/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/1XN-N-e1EtI__0MBTSSi-g55CwNZpn4kc/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Escritura'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f882d'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Borrador',
+  imagen_url: 'https://drive.google.com/file/d/1-MtzFrtzdnshfo_uiNLuG7oXqT9a2UJL/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/1b8P5EnIzTFJ1lHt9rJgU19GBFHnZdit6/view?usp=drive_link ',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Corrección'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f882e'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Sacapuntas',
+  imagen_url: 'https://drive.google.com/file/d/11bWCQStV4EahzbjuANb6VcM06r-ECFUW/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/1DZtjfws3CdAzZaTkRhrkAiiDqxLbDEDr/view?usp=drive_link ',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Accesorios Escolares'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f882f'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Colores',
+  imagen_url: 'https://drive.google.com/file/d/1V5uF9KJtM7ea1lriqTEtG4hALw20oOjd/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/1if9-_EXIpA-TQq3YJ7Kaxph-3GF4BNl4/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Arte'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f8830'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Cuaderno',
+  imagen_url: 'https://drive.google.com/file/d/18a3kIm9lBi7TFqeOpUAu5IuG5PF7dJFO/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/16pzxsSc_DVF4sgPtP0UEFVqaXzniuncC/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Papelería'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f8831'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Libro',
+  imagen_url: 'https://drive.google.com/file/d/1Nff9tF5e7jTuD8yTYq3lM9EKHQsmftaD/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/1F8RPQe-PKI3JrAO55w91KPdQPqJFsQ3k/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Papelería'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f8832'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Tijeras',
+  imagen_url: 'https://drive.google.com/file/d/1SK_cheQJQipojA529ct9B4uZy7v9qD5m/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/18TMVX149hYdxJ2qkTmIZQdXE09MGu4QY/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Manualidades'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f8833'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Pegamento',
+  imagen_url: 'https://drive.google.com/file/d/1M6aU5C3p7cfaeqNI-HFSj66kfcipIT-w/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/1SVG4IGEx0kFxEZGCwj9Fex-H4MfqqBNV/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Manualidades'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f8834'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Regla',
+  imagen_url: 'https://drive.google.com/file/d/15DJ1TdDmaVuowsjeB68mQKsMELnHV42L/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/14P19b62SE-guXkyNIpGLgmVlijVUTYZP/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Medición'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f8835'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Mochila',
+  imagen_url: 'https://drive.google.com/file/d/1ElGFNWJJ89OG-827_u4pJHWd3Y47xQ0F/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/1NwKY8ag4cbECBtl3S2ab3lKHdDXxJ8O8/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Accesorios Escolares'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f8836'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Pluma',
+  imagen_url: 'https://drive.google.com/file/d/1evrSQu57_1TdguReyy-V7aHErlJYdMnK/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/1CkfQFiUPVHJXYGYBfa_62zS3uq9a6t62/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Escritura'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f8837'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Estuche',
+  imagen_url: 'https://drive.google.com/file/d/1gwHwqoA9I3Mckz9MRVHEdWjx4B5YTGnd/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/16PxB6_1JUeH6ySFaIcTnVn9EUQapO_ZJ/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Accesorios Escolares'
+},
+{
+  _id: ObjectId('6a924416a1443ab4395f8838'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Pincel',
+  imagen_url: 'https://drive.google.com/file/d/1_zNN8uWsTZP3AeeU48sREQXMpRJBhKVg/view?usp=drivesdk',
+  audio_url: 'https://drive.google.com/file/d/1R3Gdh1xUcYdGKzxWrdockBrPBkEZpkjI/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Arte'
+}
+]
