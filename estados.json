@@ -1,0 +1,65 @@
+[
+{
+  _id: ObjectId('6a924e49a1443ab4395f8859'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Calor',
+  imagen_url: 'https://drive.google.com/file/d/1mG6cxWI6mEvK-p-sK60Ad09brGBKP_ab/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1zWEwK79y7YcEMHbH1UDnrjS9fz2yseul/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Sensaciones Térmicas'
+},
+{
+  _id: ObjectId('6a924e49a1443ab4395f885a'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Frío',
+  imagen_url: 'https://drive.google.com/file/d/1o1snNKVGhR4LTDEaPQaubAiVf7kz1dT7/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1sZiFaliPeljvj-pvyNG5wCiLEMwN9ltY/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Sensaciones Térmicas'
+},
+{
+  _id: ObjectId('6a924e49a1443ab4395f885b'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Lleno',
+  imagen_url: 'https://drive.google.com/file/d/19mdCpqA4wBPIIuq8DRkipuBCCf-X3k9F/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1DCqh7_89fTRW_GAk3KdONKSkvSAGY-_2/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Fisiológicos'
+},
+{
+  _id: ObjectId('6a924e49a1443ab4395f885c'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Hambre',
+  imagen_url: 'https://drive.google.com/file/d/1id5okEUKl3K3jSF0W_IMJ0BG7j6hRN24/view?usp=drive_link ',
+  audio_url: 'https://drive.google.com/file/d/1xGUs8vladwcS0tMaqG9RK3OTR-n16pcP/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Fisiológicos'
+},
+{
+  _id: ObjectId('6a924e49a1443ab4395f885d'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Sueño',
+  imagen_url: 'https://drive.google.com/file/d/1J7pcj23nxpikhkQjjoEkY96t3POxbdxR/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1sgAL7rABUxsr59CM4v8U7xeuN2N4KVA3/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Fisiológicos'
+},
+{
+  _id: ObjectId('6a924e49a1443ab4395f885e'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Comezón',
+  imagen_url: 'https://drive.google.com/file/d/1Cv8ME1ijrIESEzZdk6J4BwrEQIZC9qBJ/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1FyRSWOFBbIpTnAIWPnwfQWDZQzrVR7ft/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Fisiológicos'
+},
+{
+  _id: ObjectId('6a924e49a1443ab4395f885f'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Sucio',
+  imagen_url: 'https://drive.google.com/file/d/16i2lzPquD6OlCSEwQAtAGQZkul4FGp1Y/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1ERGovqAtesRp4Cx-CgHN_eK58lcHVaiI/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Físicos'
+}
+]
