@@ -1,3 +1,4 @@
+[
 {
   _id: ObjectId('6a9255cea1443ab4395f8872'),
   tipo_palabra: 'sustantivo',
@@ -6,7 +7,7 @@
   audio_url: 'https://drive.google.com/file/d/1_3ADTuU9uH92JC0JMDpDV57wf6ViK8KN/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cuarto'
-}
+},
 
 {
   _id: ObjectId('6a9255cea1443ab4395f8873'),
@@ -16,7 +17,7 @@
   audio_url: 'https://drive.google.com/file/d/1gY7duH-4PXJAW5cTzP59jR736J6WrxTt/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cuarto'
-}
+},
 
 {
   _id: ObjectId('6a9255cea1443ab4395f8874'),
@@ -26,7 +27,7 @@
   audio_url: 'https://drive.google.com/file/d/1a0vFvOA42reWdQNh9pz0WJ1yhrLNZbGv/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cuarto'
-}
+},
 
 {
   _id: ObjectId('6a9255cea1443ab4395f8875'),
@@ -36,7 +37,7 @@
   audio_url: 'https://drive.google.com/file/d/1bF_ziobhumuq6U3T8W5K-KtQLLEBK10A/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cuarto'
-}
+},
 
 {
   _id: ObjectId('6a9255cea1443ab4395f8876'),
@@ -46,7 +47,7 @@
   audio_url: 'https://drive.google.com/file/d/1XPOUaREQ2DaodqCNNCkarN9sJIlISKqU/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cuarto'
-}
+},
 
 {
   _id: ObjectId('6a9255cea1443ab4395f8877'),
@@ -56,7 +57,7 @@
   audio_url: 'https://drive.google.com/file/d/1ALWUDNL6g1z8wZ1hsvE7sOyDfSd-IVTe/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cuarto'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8878'),
   tipo_palabra: 'sustantivo',
@@ -65,7 +66,7 @@
   audio_url: 'https://drive.google.com/file/d/1kM-D7ZkqGrg3CYHs5IhXL205FqBVclNb/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cuarto'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8879'),
   tipo_palabra: 'sustantivo',
@@ -74,7 +75,7 @@
   audio_url: 'https://drive.google.com/file/d/1PGdt82ZVAO05_LOUd8-W5KwfZ6FAHeqz/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Baño'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f887a'),
   tipo_palabra: 'sustantivo',
@@ -83,7 +84,7 @@
   audio_url: 'https://drive.google.com/file/d/1HpyAsMCi8MPwU897vITKWhCF2iQ8JE66/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Baño'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f887b'),
   tipo_palabra: 'sustantivo',
@@ -92,7 +93,7 @@
   audio_url: 'https://drive.google.com/file/d/106KvBNf4k0oRSHYqdmZ4VNIvIUqIhhtr/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Baño'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f887c'),
   tipo_palabra: 'sustantivo',
@@ -101,7 +102,7 @@
   audio_url: 'https://drive.google.com/file/d/1J9VClhCkwqLlnpYSa-K11qUEJyEG0fu4/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Baño'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f887d'),
   tipo_palabra: 'sustantivo',
@@ -110,7 +111,7 @@
   audio_url: 'https://drive.google.com/file/d/1SZoVlVScRfwjckiLv7WzAPt5QPDbckhU/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Baño'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f887e'),
   tipo_palabra: 'sustantivo',
@@ -119,7 +120,7 @@
   audio_url: 'https://drive.google.com/file/d/16_74_7nb0fuD25Krg8EBfbyrqqLptZrn/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Baño'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f887f'),
   tipo_palabra: 'sustantivo',
@@ -128,7 +129,7 @@
   audio_url: 'https://drive.google.com/file/d/1phEjl1X7VKt-1PLN2lcnI_sBvnQci-54/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Sala'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8880'),
   tipo_palabra: 'sustantivo',
@@ -137,7 +138,7 @@
   audio_url: 'https://drive.google.com/file/d/1eWMlO0Q2eik8CNZjS6vc8lhHFmS1WvDo/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Sala'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8881'),
   tipo_palabra: 'sustantivo',
@@ -146,7 +147,7 @@
   audio_url: 'https://drive.google.com/file/d/1MZpJkGjcZatd3gYXuIxH2NQFQeSklRL_/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Sala'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8882'),
   tipo_palabra: 'sustantivo',
@@ -155,7 +156,7 @@
   audio_url: 'https://drive.google.com/file/d/11C01E6DhkCMt8X-Rq7uM2_tYARYn8TWw/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cocina'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8883'),
   tipo_palabra: 'sustantivo',
@@ -164,7 +165,7 @@
   audio_url: 'https://drive.google.com/file/d/1VlFGlqOIrULKyylr8PRpTTOrYbkc9KkA/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cocina'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8884'),
   tipo_palabra: 'sustantivo',
@@ -173,7 +174,7 @@
   audio_url: 'https://drive.google.com/file/d/1ggDQZ1qXlt8S1ORP0zoN_UJk_xXraDpN/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cocina'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8885'),
   tipo_palabra: 'sustantivo',
@@ -182,7 +183,7 @@
   audio_url: 'https://drive.google.com/file/d/1Ik7yJU1kNcaGhJs7gUuy0oWhzG30Swlz/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cocina'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8886'),
   tipo_palabra: 'sustantivo',
@@ -191,7 +192,7 @@
   audio_url: 'https://drive.google.com/file/d/1BfyftddJEAX-9ZYaxCw76O1jLay2vZ_Y/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cocina'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8887'),
   tipo_palabra: 'sustantivo',
@@ -200,7 +201,7 @@
   audio_url: 'https://drive.google.com/file/d/1KNGFwjCqQCeiV0njvykYIHb43vDSJynn/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cocina'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8888'),
   tipo_palabra: 'sustantivo',
@@ -209,7 +210,7 @@
   audio_url: 'https://drive.google.com/file/d/1J9q5Db5ukFgb2Ra_dYLv-iPnine5ugvu/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cocina'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f8889'),
   tipo_palabra: 'sustantivo',
@@ -218,7 +219,7 @@
   audio_url: 'https://drive.google.com/file/d/1kvClfLviv6Amn_a4sW-z726hjIylEb4A/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Cocina'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f888a'),
   tipo_palabra: 'sustantivo',
@@ -227,7 +228,7 @@
   audio_url: 'https://drive.google.com/file/d/1vZxrCQSXdNCcy8Y_H4sasrCymZqXvVvs/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Patio'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f888b'),
   tipo_palabra: 'sustantivo',
@@ -236,7 +237,7 @@
   audio_url: 'https://drive.google.com/file/d/10Y0XFoQRxhSIEdcCZm9Wel2U8SLIWdQf/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Patio'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f888c'),
   tipo_palabra: 'sustantivo',
@@ -245,7 +246,7 @@
   audio_url: 'https://drive.google.com/file/d/11QtNfunJPWG7WbvFUpJev3rbnz5Fv_y5/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Patio'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f888d'),
   tipo_palabra: 'sustantivo',
@@ -254,7 +255,7 @@
   audio_url: 'https://drive.google.com/file/d/1EG39lWygNbT2C1qHxZ29aVeNL26qGbNU/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Patio'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f888e'),
   tipo_palabra: 'sustantivo',
@@ -263,7 +264,7 @@
   audio_url: 'https://drive.google.com/file/d/1mr2P_39YOJ5WXVxXh_YvmZkyFoI68AXx/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Patio'
-}
+},
 {
   _id: ObjectId('6a9255cea1443ab4395f888f'),
   tipo_palabra: 'sustantivo',
@@ -273,3 +274,4 @@
   color_codigo: '#CAFFBF',
   subcategoria: 'Patio'
 }
+]
