@@ -1,0 +1,65 @@
+[
+{
+  _id: ObjectId('6a924345a1443ab4395f881d'),
+  tipo_palabra: 'pronombre',
+  etiqueta: 'Yo',
+  imagen_url: 'https://drive.google.com/file/d/1er0SYb0e72-HIskwQI4YoqgEz6SlRsC9/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1CiA-c9rcKluDDVuMbzl1555-X6A60JGQ/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Pronombres Personales'
+},
+{
+  _id: ObjectId('6a924345a1443ab4395f881e'),
+  tipo_palabra: 'pronombre',
+  etiqueta: 'Tú',
+  imagen_url: 'https://drive.google.com/file/d/1MuAkVxiEHHpDim8xdTJFJmy45f9SbwHy/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1SKhzq-aGsN_piFPY_F-e7PwVJKmsPhmG/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Pronombres Personales'
+},
+{
+  _id: ObjectId('6a924345a1443ab4395f881f'),
+  tipo_palabra: 'pronombre',
+  etiqueta: 'Él',
+  imagen_url: 'https://drive.google.com/file/d/1rX54eNREzNdDS65HN7wkuEQzXiXk0FLR/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/19VVW2KtYsmeFAI1FFu_0HShWLPtnTylw/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Pronombres Personales'
+},
+{
+  _id: ObjectId('6a924345a1443ab4395f8820'),
+  tipo_palabra: 'pronombre',
+  etiqueta: 'Ella',
+  imagen_url: 'https://drive.google.com/file/d/1POvHNfiW0-JCOVNhpYI2xaU8szXSDSwk/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/11nNbfDfp0wNzHeKWlgREtHDEYCmR6s6o/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Pronombres Personales'
+},
+{
+  _id: ObjectId('6a924345a1443ab4395f8821'),
+  tipo_palabra: 'pronombre',
+  etiqueta: 'Nosotros',
+  imagen_url: 'https://drive.google.com/file/d/1NR3SCaLU0oD-Gk59IjQ0WrF_sG5wdRlE/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1PtAE8977FWyOvcYeEBhw49wij_eARBjN/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Pronombres Personales'
+},
+{
+  _id: ObjectId('6a924345a1443ab4395f8822'),
+  tipo_palabra: 'pronombre',
+  etiqueta: 'Ustedes',
+  imagen_url: 'https://drive.google.com/file/d/1LQfExPaiYy9S065vO1TmL6zMQXYjrXyi/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1ouqjcWV7_WqX4gUMNbAgvjWEKf_Z4etY/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Pronombres Personales'
+},
+{
+  _id: ObjectId('6a924345a1443ab4395f8823'),
+  tipo_palabra: 'pronombre',
+  etiqueta: 'Ellos',
+  imagen_url: 'https://drive.google.com/file/d/1jXbDKluPGtjLP1a6ZX7ijlBFeCAEHW6O/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1rzOJo6uEexMpgRrHx8egB7u_gnRMtPzO/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Pronombres Personales'
+}
+]
