@@ -1,0 +1,92 @@
+[
+{
+  _id: ObjectId('6a924071a1443ab4395f880e'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Mamá',
+  imagen_url: 'https://drive.google.com/file/d/1KnDVcMGzWDq4ubkF4fcyF5Jn9rO6H9p-/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1kTEclBzT_CZ2bPp4hrmNMMyS1A6_rvpH/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+},
+{
+  _id: ObjectId('6a92408fa1443ab4395f880f'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Papá',
+  imagen_url: 'https://drive.google.com/file/d/14ytMmEeFplJiMW4ezNWumPg_3ZspNY_J/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1UuQifqWXSvY0g08qf_ZhU-uUuVXqHq1G/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+},
+{
+  _id: ObjectId('6a92413da1443ab4395f8810'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Abuelo',
+  imagen_url: 'https://drive.google.com/file/d/1DXhNI7vPOMCtvNMq0CRZokN1a3L723dO/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/19ELLNvZp6WCTeCgYmJgwC-TMsbvMIBzc/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+},
+{
+  _id: ObjectId('6a924167a1443ab4395f8811'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Abuela',
+  imagen_url: 'https://drive.google.com/file/d/1NxUmhSd1HwsyfhaLBP-MJ9wUxHCnWzYe/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/123yTyELRcfzxCregwKrjfG3pWiFddd-s/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+},
+{
+  _id: ObjectId('6a92417ca1443ab4395f8812'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Hermano',
+  imagen_url: 'https://drive.google.com/file/d/18K47on7GOlH6jkxEQh2hoQT2nb7AZDgn/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1YMY2WshuVOBprpmoluYG2nazop4AWSvf/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+},
+{
+  _id: ObjectId('6a9242c2a1443ab4395f8813'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Hermana',
+  imagen_url: 'https://drive.google.com/file/d/1aUJ9DJRj_VjwpAujMVCeazsMJuWnwLK6/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/17lX_uYlq3k2JmhDfreH_ZERa0CsKMOY0/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+},
+{
+  _id: ObjectId('6a9242c2a1443ab4395f8814'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Primo',
+  imagen_url: 'https://drive.google.com/file/d/1NgS2j_5_wjPucMhBwAlnaYlpZhuzG3HN/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1JKp0ov13te1rLNoAt_hpqbKgO2kLn5eJ/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+},
+{
+  _id: ObjectId('6a9242c2a1443ab4395f8815'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Prima',
+  imagen_url: 'https://drive.google.com/file/d/1no8kqU7U2ymNbxDZn7uCarelKz6A9iQ-/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1CuTB5HVMLTevVLYdgSrMLkpoz_cVqmOL/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+},
+{
+  _id: ObjectId('6a9242c2a1443ab4395f8816'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Tío',
+  imagen_url: 'https://drive.google.com/file/d/1u8imVPGDEIrGSPAzt3mgyRSSX4LG_ngE/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/10CaejKg54bERTDSPbaR3xAPOd8Yy3n5V/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+},
+{
+  _id: ObjectId('6a9242c2a1443ab4395f8817'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Tía',
+  imagen_url: 'https://drive.google.com/file/d/1UI8jYVFTa9XKCwkKDzg8urj3Tzj0i5pe/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1Dk3iw2MMKe0xOy6fB9bK4_o-CKPgYS_5/view?usp=drive_link',
+  color_codigo: '#FFC6FF',
+  subcategoria: 'Integrantes'
+}
+]
