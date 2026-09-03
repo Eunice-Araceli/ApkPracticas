@@ -1,0 +1,74 @@
+[
+{
+  _id: ObjectId('6a924ab4a1443ab4395f8850'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Feliz',
+  imagen_url: 'https://drive.google.com/file/d/1-rKsdWBad_p_wXANjsgzcHkE2ZffDTwk/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1nefuzovKNuYoJfU-Tej1dHm1waXfOoRJ/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Positivas'
+},
+{
+  _id: ObjectId('6a924ab4a1443ab4395f8851'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Triste',
+  imagen_url: 'https://drive.google.com/file/d/1jVr3JUHKGUwxNfonE5r10gQpxPyVqtC6/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1bmSzyo3eRykT6A7V2LaJqNx_jlt2IUBy/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Negativas'
+},
+{
+  _id: ObjectId('6a924ab4a1443ab4395f8852'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Enojado',
+  imagen_url: 'https://drive.google.com/file/d/1lw5F-hR-_CT93SqiyhDQd57yVq1DquMK/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1edk3TQ_weAYNEeyiuLc2ObyJUvQftZvJ/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Negativas'
+},
+{
+  _id: ObjectId('6a924ab4a1443ab4395f8853'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Sorprendido',
+  imagen_url: 'https://drive.google.com/file/d/1xEUYCrrYTVkXLXU-Aip7KSytY1xJVTV5/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/19wHq0IPkaUiS1pexc9AEqkikf1NP0W9C/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Neutras'
+},
+{
+  _id: ObjectId('6a924ab4a1443ab4395f8854'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Asustado',
+  imagen_url: 'https://drive.google.com/file/d/1O1lnKPg8xDeGu2aH-FPAklnIfegCGvRj/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1OQnwQdq-GfTnVqISGGvf27uVnsHn45Pt/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Negativas'
+},
+{
+  _id: ObjectId('6a924ab4a1443ab4395f8855'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Tranquilo',
+  imagen_url: 'https://drive.google.com/file/d/1OXnso7fK_Z3fVBcXCx80_PtPkQ5Veqwa/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1lh1qRrFlGmMYBhmx6hSXWyJ04hz5b0_U/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Positivas'
+},
+{
+  _id: ObjectId('6a924ab4a1443ab4395f8856'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Frustrado',
+  imagen_url: 'https://drive.google.com/file/d/1cpbpTiijvd5Q4xCv5hWVqN8xJeZBPXFY/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1K6yQ71q9-xWaRewXV5g3lH1D4m4QL1wf/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Negativas'
+},
+{
+  _id: ObjectId('6a924ab4a1443ab4395f8857'),
+  tipo_palabra: 'adjetivo',
+  etiqueta: 'Aburrido',
+  imagen_url: 'https://drive.google.com/file/d/1L98snxfr13i7TUwX3OqNa9_rHRzPrbMF/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1ulE3XuC3oLwrafEzCGKpyXZDvcspfuFK/view?usp=drive_link',
+  color_codigo: '#FFD6A5',
+  subcategoria: 'Negativas'
+}
+]
