@@ -1,0 +1,54 @@
+{
+  _id: ObjectId('6a9243a7a1443ab4395f8825'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Teléfono',
+  imagen_url: 'https://drive.google.com/file/d/1i19WhdlLBSW4lRcPjsh7k77llSauygnI/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1gx5r_Yj82uwYIt7EemnkhOge0XsdaAGY/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Electrónicos'
+}
+{
+  _id: ObjectId('6a9243a7a1443ab4395f8826'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Tablet',
+  imagen_url: 'https://drive.google.com/file/d/1YMt8-jAz-1w5FpyPbwa5Jmck_x8XGmV4/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/103lsyWsqnrj4d6bZ4ZL9c2-q--Jddt9W/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Electrónicos'
+}
+{
+  _id: ObjectId('6a9243a7a1443ab4395f8827'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Televisión',
+  imagen_url: 'https://drive.google.com/file/d/1QaxwST7SJnnEvU2enVEsTtcHpwXzWDQ_/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/13NL50XAzt3Qe9i8CU07Bxhavg7_6KisG/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Electrónicos'
+}
+{
+  _id: ObjectId('6a9243a7a1443ab4395f8828'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Computadora',
+  imagen_url: 'https://drive.google.com/file/d/1A_U97rR87zdyrUB5kr8UGCyuoalB3iVM/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1ruSHVu8qvNyc_UxFL0VHBydPiwcEMlax/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Electrónicos'
+}
+{
+  _id: ObjectId('6a9243a7a1443ab4395f8829'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Audífonos',
+  imagen_url: 'https://drive.google.com/file/d/1jFSvvRs2t4VgMubE67rJ7557RYmAGMMu/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1Sg9Hev87wUNlo8IK6LgDMmqkM2_stGqT/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Accesorios'
+}
+{
+  _id: ObjectId('6a9243a7a1443ab4395f882a'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Cargador',
+  imagen_url: 'https://drive.google.com/file/d/15AvVt3OCOLUFK70fsRKKPcaH7mewq34v/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1v0B04_-_LSp9XnozGnZcFSXCacZHVovW/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Accesorios'
+}
