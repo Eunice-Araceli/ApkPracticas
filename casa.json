@@ -1,0 +1,275 @@
+{
+  _id: ObjectId('6a9255cea1443ab4395f8872'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Cama',
+  imagen_url: 'https://drive.google.com/file/d/1a4b6UnBxN9DtXUFN9r7UYf_cAQ-uWw5_/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1_3ADTuU9uH92JC0JMDpDV57wf6ViK8KN/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cuarto'
+}
+
+{
+  _id: ObjectId('6a9255cea1443ab4395f8873'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Almohada',
+  imagen_url: 'https://drive.google.com/file/d/1bzoiKPn2kRKqVIiAgK02Q_vdXZ7uKNwk/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1gY7duH-4PXJAW5cTzP59jR736J6WrxTt/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cuarto'
+}
+
+{
+  _id: ObjectId('6a9255cea1443ab4395f8874'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Cobija',
+  imagen_url: 'https://drive.google.com/file/d/1cr8IaHO2IGiV1z3hl95PUwkWWbUXZ0X9/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1a0vFvOA42reWdQNh9pz0WJ1yhrLNZbGv/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cuarto'
+}
+
+{
+  _id: ObjectId('6a9255cea1443ab4395f8875'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Espejo',
+  imagen_url: 'https://drive.google.com/file/d/1rB2j0fvZWBHDjvGB8KzCb5LTtZuibpSP/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1bF_ziobhumuq6U3T8W5K-KtQLLEBK10A/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cuarto'
+}
+
+{
+  _id: ObjectId('6a9255cea1443ab4395f8876'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Ropa',
+  imagen_url: 'https://drive.google.com/file/d/12WgpXc5aJCKOai-NKUpT2PdJF-GtYiVy/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1XPOUaREQ2DaodqCNNCkarN9sJIlISKqU/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cuarto'
+}
+
+{
+  _id: ObjectId('6a9255cea1443ab4395f8877'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Juguetes',
+  imagen_url: 'https://drive.google.com/file/d/1ObYYNvEkzqAZyegmRyPX1gBg2zcLreYf/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1ALWUDNL6g1z8wZ1hsvE7sOyDfSd-IVTe/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cuarto'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8878'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Peluches',
+  imagen_url: 'https://drive.google.com/file/d/1u5e7DDj1-wGhjw3olbnGwN6d6uodnGIU/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1kM-D7ZkqGrg3CYHs5IhXL205FqBVclNb/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cuarto'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8879'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Toalla',
+  imagen_url: 'https://drive.google.com/file/d/1h2UNvKW6vBVtagGUS-8UeCzcRILD-IhG/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1PGdt82ZVAO05_LOUd8-W5KwfZ6FAHeqz/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Baño'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f887a'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Cepillo de dientes',
+  imagen_url: 'https://drive.google.com/file/d/17fOpJQItXYstReozXUWDcfiu39xKBG9r/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1HpyAsMCi8MPwU897vITKWhCF2iQ8JE66/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Baño'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f887b'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Pasta de dientes',
+  imagen_url: 'https://drive.google.com/file/d/1HuJOhT41r1KonQ2dZuoM2-lgirJZBFV5/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/106KvBNf4k0oRSHYqdmZ4VNIvIUqIhhtr/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Baño'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f887c'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Regadera',
+  imagen_url: 'https://drive.google.com/file/d/1-Urhmyz7mLnVDyQ5onYyuolS76eWO2B_/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1J9VClhCkwqLlnpYSa-K11qUEJyEG0fu4/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Baño'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f887d'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Jabón',
+  imagen_url: 'https://drive.google.com/file/d/1t8YR4kVQcXJ4MqDusKrAUCIy2WBXRngi/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1SZoVlVScRfwjckiLv7WzAPt5QPDbckhU/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Baño'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f887e'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Shampoo',
+  imagen_url: 'https://drive.google.com/file/d/18n27kmIpQlGaqQWj93Lxh3hCfQF9hdVL/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/16_74_7nb0fuD25Krg8EBfbyrqqLptZrn/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Baño'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f887f'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Silla',
+  imagen_url: 'https://drive.google.com/file/d/1MCNzhx4EDNcXKw3H-0aWAeZUzVioM93l/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1phEjl1X7VKt-1PLN2lcnI_sBvnQci-54/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Sala'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8880'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Sillón',
+  imagen_url: '',
+  audio_url: 'https://drive.google.com/file/d/1eWMlO0Q2eik8CNZjS6vc8lhHFmS1WvDo/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Sala'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8881'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Mesa',
+  imagen_url: 'https://drive.google.com/file/d/1H14cS0QTACNXNMndsePoXc53thzoME-g/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1MZpJkGjcZatd3gYXuIxH2NQFQeSklRL_/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Sala'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8882'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Plato',
+  imagen_url: 'https://drive.google.com/file/d/1hTIxmWSGPyXth0JpXoto60scqEJQcuT8/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/11C01E6DhkCMt8X-Rq7uM2_tYARYn8TWw/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cocina'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8883'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Cuchara',
+  imagen_url: 'https://drive.google.com/file/d/1yyjJn8Y6SckxwCWZuEKcJXMcF6bxFSZy/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1VlFGlqOIrULKyylr8PRpTTOrYbkc9KkA/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cocina'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8884'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Tenedor',
+  imagen_url: 'https://drive.google.com/file/d/1vYNarv8zn-E-P4zM4EzdDwswADFPe-Oc/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1ggDQZ1qXlt8S1ORP0zoN_UJk_xXraDpN/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cocina'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8885'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Vaso',
+  imagen_url: 'https://drive.google.com/file/d/1i-Wz2BAjKaZwIGRa0H7CUDAVO7Q9nLGy/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1Ik7yJU1kNcaGhJs7gUuy0oWhzG30Swlz/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cocina'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8886'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Trapo',
+  imagen_url: 'https://drive.google.com/file/d/19eIVKdyCOKsviJa9DnrgXkXBgL9Biwuj/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1BfyftddJEAX-9ZYaxCw76O1jLay2vZ_Y/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cocina'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8887'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Refrigerador',
+  imagen_url: 'https://drive.google.com/file/d/115Yv89c804cz5CktqjpxUfHkPIEIl6rU/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1KNGFwjCqQCeiV0njvykYIHb43vDSJynn/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cocina'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8888'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Estufa',
+  imagen_url: 'https://drive.google.com/file/d/1tr9WBBWO66XOTq4SvnVaKIrEKfUsi8w8/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1J9q5Db5ukFgb2Ra_dYLv-iPnine5ugvu/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cocina'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f8889'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Comida',
+  imagen_url: 'https://drive.google.com/file/d/16JaYSATmii_YY3wvZBQq-dNPxZbwtIHV/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1kvClfLviv6Amn_a4sW-z726hjIylEb4A/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Cocina'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f888a'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Pasto',
+  imagen_url: 'https://drive.google.com/file/d/1GkApDyG1-R1CIYs9we-xQxZXHzSlsMCz/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1vZxrCQSXdNCcy8Y_H4sasrCymZqXvVvs/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Patio'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f888b'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Tierra',
+  imagen_url: 'https://drive.google.com/file/d/1qCsUBGvYex_smjoMSoUDsJIgOSwpt4Q-/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/10Y0XFoQRxhSIEdcCZm9Wel2U8SLIWdQf/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Patio'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f888c'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Piedras',
+  imagen_url: 'https://drive.google.com/file/d/1vk5a4xNBErjPgYrjnY6TVEwxlZa324Nd/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/11QtNfunJPWG7WbvFUpJev3rbnz5Fv_y5/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Patio'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f888d'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Flores',
+  imagen_url: 'https://drive.google.com/file/d/1ye1Il9kc-hQt56STuQkRVa525y75tnlc/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1EG39lWygNbT2C1qHxZ29aVeNL26qGbNU/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Patio'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f888e'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Bichos',
+  imagen_url: 'https://drive.google.com/file/d/1Q2GTzFhtNs2vztQhS3l3XdFsa7HobYoR/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1mr2P_39YOJ5WXVxXh_YvmZkyFoI68AXx/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Patio'
+}
+{
+  _id: ObjectId('6a9255cea1443ab4395f888f'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Hojas',
+  imagen_url: 'https://drive.google.com/file/d/1S8QLTGzx5q2DKKk9zegTGWSnVjxcPOJJ/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1EtzKrK6jcEVm54Jf-xrTRUjx8Zi2vft-/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Patio'
+}
