@@ -1,0 +1,83 @@
+[
+{
+  _id: ObjectId('6a92473aa1443ab4395f883c'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Carro',
+  imagen_url: 'https://drive.google.com/file/d/1C2zXklOb_LhL50z2ZTyJoDGXmJMX8X64/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1p8_7GCbzjdR5V4rB7VJS0YUsytS9GDjy/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Terrestre'
+},
+{
+  _id: ObjectId('6a92473aa1443ab4395f883d'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Moto',
+  imagen_url: 'https://drive.google.com/file/d/13DdwNdWGEKGs-s-Ic8Vn0mC-aFGJakFZ/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1NASQCjvaESlbkx6hCK0oDUOwp59wGWL1/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Terrestre'
+},
+{
+  _id: ObjectId('6a92473aa1443ab4395f883e'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Autobús',
+  imagen_url: 'https://drive.google.com/file/d/1DrSIRZlKvW5ORaPYu7-8oZAAbvT4jyxm/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1m-oaBK4PzQtmwAU_i03APcbyftIzxgEd/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Público'
+},
+{
+  _id: ObjectId('6a92473aa1443ab4395f883f'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Camión',
+  imagen_url: 'https://drive.google.com/file/d/16ocHpxQwsQZwFkob0XEuQyiL5_F9RFdU/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1B2sC4Bz9TU8xgPedaEBypwPHE6RvejRT/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Terrestre'
+},
+{
+  _id: ObjectId('6a92473aa1443ab4395f8840'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Tráiler',
+  imagen_url: 'https://drive.google.com/file/d/1bO_78c4lRU5-BA4UFTsDOvnan1f-z7KB/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1omLqE9zUwuZzVff1FAaALbX8HUxDDqKZ/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Terrestre'
+},
+{
+  _id: ObjectId('6a92473aa1443ab4395f8841'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Bicicleta',
+  imagen_url: 'https://drive.google.com/file/d/1_jIaS_ZAHlS-MpMV5MgmXVj2L6Iw9KHH/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1ctREaPzXqw8KD4UqVUl94B_kUE_nhhNH/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Terrestre'
+},
+{
+  _id: ObjectId('6a92473aa1443ab4395f8842'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Taxi',
+  imagen_url: 'https://drive.google.com/file/d/18zV1EnaAeLM4W6dDiTZA9ucVWVzyVjHK/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1IBkPqb99TTzMFg1hMzxMGf9htQ462EKW/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Público'
+},
+{
+  _id: ObjectId('6a92473aa1443ab4395f8843'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Avión',
+  imagen_url: 'https://drive.google.com/file/d/1mOmTwKxbc7dv2gj5rkAvNuJvGlAnwjxl/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1TTPjLiAM2KZGZ_31r6Yx4_aDShSDhoml/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Aéreo'
+},
+{
+  _id: ObjectId('6a92473aa1443ab4395f8844'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Barco',
+  imagen_url: 'https://drive.google.com/file/d/1LGW56Ai_DXUVNk3dKg38a2nKn1V0_1bd/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1yROq6s7kvoudyGN41SA0Eh7TiV0r96b7/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Marítimo'
+}
+]
