@@ -1,3 +1,4 @@
+[
 {
   _id: ObjectId('6a9243a7a1443ab4395f8825'),
   tipo_palabra: 'sustantivo',
@@ -6,7 +7,7 @@
   audio_url: 'https://drive.google.com/file/d/1gx5r_Yj82uwYIt7EemnkhOge0XsdaAGY/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Electrónicos'
-}
+},
 {
   _id: ObjectId('6a9243a7a1443ab4395f8826'),
   tipo_palabra: 'sustantivo',
@@ -15,7 +16,7 @@
   audio_url: 'https://drive.google.com/file/d/103lsyWsqnrj4d6bZ4ZL9c2-q--Jddt9W/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Electrónicos'
-}
+},
 {
   _id: ObjectId('6a9243a7a1443ab4395f8827'),
   tipo_palabra: 'sustantivo',
@@ -24,7 +25,7 @@
   audio_url: 'https://drive.google.com/file/d/13NL50XAzt3Qe9i8CU07Bxhavg7_6KisG/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Electrónicos'
-}
+},
 {
   _id: ObjectId('6a9243a7a1443ab4395f8828'),
   tipo_palabra: 'sustantivo',
@@ -33,7 +34,7 @@
   audio_url: 'https://drive.google.com/file/d/1ruSHVu8qvNyc_UxFL0VHBydPiwcEMlax/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Electrónicos'
-}
+},
 {
   _id: ObjectId('6a9243a7a1443ab4395f8829'),
   tipo_palabra: 'sustantivo',
@@ -42,7 +43,7 @@
   audio_url: 'https://drive.google.com/file/d/1Sg9Hev87wUNlo8IK6LgDMmqkM2_stGqT/view?usp=drive_link',
   color_codigo: '#CAFFBF',
   subcategoria: 'Accesorios'
-}
+},
 {
   _id: ObjectId('6a9243a7a1443ab4395f882a'),
   tipo_palabra: 'sustantivo',
@@ -52,3 +53,4 @@
   color_codigo: '#CAFFBF',
   subcategoria: 'Accesorios'
 }
+]
