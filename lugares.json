@@ -1,0 +1,83 @@
+[
+{
+  _id: ObjectId('6a9247b8a1443ab4395f8846'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Supermercado',
+  imagen_url: 'https://drive.google.com/file/d/1IutqNz1Zi-yYGRKdgpiJYHGiUx-asm1r/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/16_5yT1FfcoJNMXLlZf1Uz1LEBEN5zLDu/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Comercio'
+},
+{
+  _id: ObjectId('6a9247b8a1443ab4395f8847'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Cine',
+  imagen_url: 'https://drive.google.com/file/d/1eWNDmHcp41anaNdFA1VL97rK2YSn7fcy/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1SGzO_23xryB5aCmU258LX7LDoB8fk0uG/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Entretenimiento'
+},
+{
+  _id: ObjectId('6a9247b8a1443ab4395f8848'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Restaurante',
+  imagen_url: 'https://drive.google.com/file/d/1-s59EYUXpz4dvKLZjTyayVfgCiongF-K/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1CSac4zNHrR4vB56MrYCU_TO1RNh8Njpx/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Alimentación'
+},
+{
+  _id: ObjectId('6a9247b8a1443ab4395f8849'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Parque',
+  imagen_url: 'https://drive.google.com/file/d/1y37vxTW2qQNReXYroXeHqupvFpKa061K/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1-xQSyksoLFJ_Br-6dqse_fv81kR9v7Ge/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Recreación'
+},
+{
+  _id: ObjectId('6a9247b8a1443ab4395f884a'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Escuela',
+  imagen_url: 'https://drive.google.com/file/d/1oUT9248EUk67zgEPfVQyjGPXlkVhatYK/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/10_3i07n7tq5TBzyQtO7pRWEX9chqvgzj/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Educación'
+},
+{
+  _id: ObjectId('6a9247b8a1443ab4395f884b'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Tienda',
+  imagen_url: 'https://drive.google.com/file/d/1Ep832xDgo5_gmqLSbU-59cwouErnjZQz/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1hcBC8C0R_6Va2SC6AgU706FzFePV54fn/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Comercio'
+},
+{
+  _id: ObjectId('6a9247b8a1443ab4395f884c'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Cafetería',
+  imagen_url: 'https://drive.google.com/file/d/17rE3A31Rwsl_WAxdWJi75Ys9M0HEqmIs/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1pPNVHgU35PVOmeV6WVl74C2UkVVfKP5w/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Alimentación'
+},
+{
+  _id: ObjectId('6a9247b8a1443ab4395f884d'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Aeropuerto',
+  imagen_url: 'https://drive.google.com/file/d/1sqCK5G7Vz-h314MaQZUcCi9rjGS9VO2k/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/188nXVXhMzvSxhehjFBpobs-T6KPpZc_h/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Transporte'
+},
+{
+  _id: ObjectId('6a9247b8a1443ab4395f884e'),
+  tipo_palabra: 'sustantivo',
+  etiqueta: 'Heladería',
+  imagen_url: 'https://drive.google.com/file/d/1z5HSJbtbpQXKAKCvTuSwXU_dR0KsBREh/view?usp=drive_link',
+  audio_url: 'https://drive.google.com/file/d/1Z2D_JpzvXhVtHEEXKqTiTq5U_wW1lcpx/view?usp=drive_link',
+  color_codigo: '#CAFFBF',
+  subcategoria: 'Alimentación'
+}
+]
